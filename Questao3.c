@@ -16,7 +16,7 @@ scanf("%i",&b);
 
 soma= a+b;
 
-printf("a soma dos numeros é: %2.f",soma);
+printf("a soma dos numeros é: %.2f",soma);
 
 
     return 0;
